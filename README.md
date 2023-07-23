@@ -11,7 +11,7 @@
 - 참여자 : 임승섭, 도형준, 조민영, 이태범, 김민서
 
 
-## 🙋🏽 세미나 진행 방식
+## 🙋🏽 스터디 진행 방식
 - 교재 : [그림으로 이해하는 가상화와 컨테이너](https://product.kyobobook.co.kr/detail/S000200276975)
 
 <img src="https://github.com/seopp/Tobigs_Engineering_Study/assets/100005890/445e4249-4511-4f7e-b175-86f85d5537a1" alt="image" width="200">
