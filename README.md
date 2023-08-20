@@ -30,12 +30,12 @@
 
 |Date|Chapter|Reviewer|
 |---------|---|---|
-|2023.7.22|[week 0] [스터디 주제 선정 및 방향성 회의](https://github.com/seopp/Tobigs_Engineering_Study/issues/1) |unknown|
+|2023.7.22|[week 0] [스터디 주제 선정 및 방향성 회의](https://github.com/seopp/Tobigs_Engineering_Study/issues/1) |  |
 |2023.7.29|[week 1] [가상화 기초 지식](https://github.com/seopp/Tobigs_Engineering_Study/issues/2) |도형준|
 |2023.8.5|[week 2] [가상화의 원리와 기술](https://github.com/seopp/Tobigs_Engineering_Study/issues/3) |김민서|
-|2023.8.12|[week 3] 가상화의 원리와 기술 |unknown|
+|2023.8.12|[week 3] [가상화의 원리와 기술](https://github.com/seopp/Tobigs_Engineering_Study/issues/4) |임승섭|
 |2023.8.19|[week 4] [컨테이너 기술과 기초 지식](https://github.com/seopp/Tobigs_Engineering_Study/issues/5) |조민영|
-|2023.8.26|[week 5] 컨테이너형 가상화 소프트웨어, 도커 |unknown|
-|2023.9.2|[week 6] 컨테이너형 가상화 소프트웨어, 도커 |unknown|
-|2023.9.9|[week 7] 컨테이너 오케스트레이션 도구, 쿠버네티스 |unknown|
-|2023.9.16|[week 8] 컨테이너 오케스트레이션 도구, 쿠버네티스 |unknown|
+|2023.8.26|[week 5] 컨테이너형 가상화 소프트웨어, 도커 |  |
+|2023.9.2|[week 6] 컨테이너형 가상화 소프트웨어, 도커 |  |
+|2023.9.9|[week 7] 컨테이너 오케스트레이션 도구, 쿠버네티스 |  |
+|2023.9.16|[week 8] 컨테이너 오케스트레이션 도구, 쿠버네티스 |  |
